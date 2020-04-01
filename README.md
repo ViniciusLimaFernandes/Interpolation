@@ -16,3 +16,12 @@ Written explicitly,
 <img src = "https://mathworld.wolfram.com/images/equations/LagrangeInterpolatingPolynomial/Inline9.gif">
 
 Reference: <a href="https://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html">Lagrange Interpolating Polynomialk</a>
+
+### How to install
+To run this project you will need to install `matplotlib`
+Just run `py -m pip install -U pip &&  -m pip install -U matplotlib` to install pip and the `matplotlib`
+Otherwise if you prefer to use `make` commands just use `make build`
+
+### How to run
+If you are using `Python 3.8.2` use the command `py main.py`
+Otherwise if you prefer to use `make` commands just use `make run`
