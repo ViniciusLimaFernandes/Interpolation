@@ -8,6 +8,6 @@ The Lagrange interpolating polynomial is the polynomial P(x) of degree <=(n-1) t
 where
 <img src = "https://mathworld.wolfram.com/images/equations/LagrangeInterpolatingPolynomial/NumberedEquation2.gif">
 Written explicitly,
-<img src = "https://mathworld.wolfram.com/images/equations/LagrangeInterpolatingPolynomial/Inline9.gif.gif">
+<img src = "https://mathworld.wolfram.com/images/equations/LagrangeInterpolatingPolynomial/Inline9.gif">
 
 Reference: <a href="https://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html">Lagrange Interpolating Polynomialk</a>
